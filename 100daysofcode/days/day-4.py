@@ -13,6 +13,7 @@
 # if a == 0:
 #     print("Heads")
 # else:
+<<<<<<< HEAD
 #     print("Tails")
 
 #You are going to write a program which will select a random name from a list of names.
@@ -91,3 +92,6 @@ scissors = '''
 #     print(f"Computer chose\n {cc1}\n You Win")
 # else:
 #     print("Draw")
+=======
+#     print("Tails")
+>>>>>>> 05487de (Added day-4 files)
